@@ -8,6 +8,7 @@ BullyProof is a Google Chrome extension, built with a vision to stop cyberbully 
 BullyProof has two major components,
 1. The timeline scrapper
 2. A artificially intelligent model(AI Model) that reads through each of the scrapped media sessions(ex. A head tweet with all its replies corresponds to one media session) and predicts of the session qualifies as an instance of Cyberbully or not.<br>
+
 The current version, is able to check for cyberbully in Twitter. We intend to extend this other social media as well.<br> 
 The timeline scrapper uses the Twitter Tweepy API to scrape the timeline of a person who has logged in to BullyProof. The media sessions so obtained, are fed onto the AI Model to predict if its a bully or not.<br>
 The number of Cyberbully instances in each week are taken into account and if they are found to be greater than certain threshold, it is reported to the “Guardian” (The Email of the guardian is taken when registering to BullyProof) through Email.
