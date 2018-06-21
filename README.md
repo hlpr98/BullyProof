@@ -16,8 +16,9 @@ The number of Cyberbully instances in each week are taken into account and if th
 1. BullyProof can successfully scrape a person’s Twitter timeline and predict and instance of Cyberbully.
 2. The AI Model that we have built can successfully distinguish between Cyberbullying and Cyber-Aggression.
 3. Our Ai Model could give and Accuracy of 81% with and F1-Score of 81% when tested on a dataset borrowed from Carnegie Mellon University.
-<br>
-![alt picture](https://github.com/hlpr98/BullyProof/blob/master/Result.png)	
+
+![Alt Text](https://github.com/hlpr98/BullyProof/blob/master/Result.png)
+
 (Here class “-1” represents “Not Cyberbully” and “1” represents “Cyberbully”)
 
 ### Plans to improve this project
