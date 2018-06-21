@@ -41,7 +41,7 @@ Numpy
 Twitter Tweepy
 ```
 #### Executing BullyProof:
-* Add BullyProof extension(submitted) into Chrome
+* Add [BullyProof extension](https://github.com/hlpr98/BullyProof/blob/master/BullyProof_ChromeExtension.tar.gz) into Chrome
 * Give the credential required.
 * Check how the extension functions:
 * Go to the source directory and execute tweepy.py and BullyProof.py in sequence.<br>
